@@ -1,4 +1,4 @@
-Follow these simple steps to integrate ChatGPT & WhatsApp:
+Follow these simple steps to integrate ChatGPT & WhatsApp - 
 
 1. Create a WhatsApp Chat Bot
 2. Create a web endpoint to receive payloads from WhatsApp
